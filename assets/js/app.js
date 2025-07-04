@@ -53,7 +53,7 @@ function searchEmployee(arg) {
                             </div>
                             <div style="font-size:12px">
                                 <span>Status: </span>
-                                <span class="active">${user.role}</span>
+                                <span class="active">${user.status}</span>
                             </div>
                             <div style="font-size:12px">
                                 <span>Permananet:</span>
